@@ -2,7 +2,7 @@ require "formula"
 
 class Mbsystem < Formula
   homepage "http://www.mbari.org/data/mbsystem/mb-cookbook/index.html"
-  url "ftp://ftp.ldeo.columbia.edu/pub/MB-System/mbsystem-5.4.2202.tar.gz"
+  url "ftp://ftp.ldeo.columbia.edu/pub/MB-System/mbsystem-5.4.2209.tar.gz"
   sha1 "a4513c3a6a9e22e5fcb3b18ef85ff4b9c08a1b25"
 
   depends_on :x11
